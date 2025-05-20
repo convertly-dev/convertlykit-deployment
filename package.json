@@ -1,0 +1,27 @@
+{
+  "name": "convertlykit-monorepo",
+  "packageManager": "pnpm@10.5.2",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "check-types": "turbo check-types"
+  },
+  "devDependencies": {
+    "turbo": "^2.5.3"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazycodestar/ecommerce-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazycodestar/ecommerce-cms/issues"
+  },
+  "homepage": "https://github.com/crazycodestar/ecommerce-cms#readme",
+  "description": ""
+}
